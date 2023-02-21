@@ -4,7 +4,7 @@ let separateur = " ";
 function split(){
   
   return str.split(separateur);
-    
+    //
   }
 
 
